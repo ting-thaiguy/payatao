@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/payatao/precache-manifest.ba97edc4a8ad8defa1cdbb292246b3c8.js"
+  "/payatao/precache-manifest.be8635ae9521f49acf7cd4bf1ad486c0.js"
 );
 
 workbox.clientsClaim();
